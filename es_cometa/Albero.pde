@@ -22,41 +22,7 @@ public class Albero{
      fill(#009900); //colore punta
      triangle(x-w/2, y-50, x, y-(h/2)-70, x+w/2, y-50);
      
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 60, 190);
      
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 130, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 201, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 272, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 343, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 414, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 485, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 556, 190);
-     
-     textSize(50);
-     fill(color(#ffff99));
-     text("*", 627, 190);
   }
   
 
